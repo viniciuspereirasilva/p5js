@@ -1,7 +1,7 @@
-function setup() {
-  createCanvas(400, 400);
-}
 
-function draw() {
-  background(220);
-}
+let xBolinha = 100;
+let yBolinha = 200;
+let diametro = 20;
+let raio = diametro / 2;
+
+//variaveis
